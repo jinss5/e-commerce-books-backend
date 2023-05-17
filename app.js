@@ -4,10 +4,10 @@ const express = require('express');
 const cors = require('cors');
 const morgan = require('morgan');
 
-const routes = require('./routes');
+const routes = require('./api/routes');
 
-const { dataSource } = require('./models/dataSource');
-const { globalErrorHandler } = require('./middlewares/error.js');
+const { dataSource } = require('./api/models/dataSource');
+const { globalErrorHandler } = require('./api/middlewares/error.js');
 
 const app = express();
 
