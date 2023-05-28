@@ -8,10 +8,10 @@
   
 ## FrontEnd
   
-<a href="https://github.com/junsobi">Junsop Kim<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/hongyeollee"/></a>
+<a href="https://github.com/junsobi">Junseob Kim<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/hongyeollee"/></a>
 <a href="https://github.com/hhyunah">Hyunah Park<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/hongyeollee"/></a>
 <a href="https://github.com/min2oyo">Seungmin Oh<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/hongyeollee"/></a>
-<a href="https://github.com/patatco">Heeyeon Kim<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/hongyeollee"/></a>
+<a href="https://github.com/patataco">Heeyeon Kim<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/hongyeollee"/></a>
 <a href="https://github.com/sojin9820">Sojin Lee<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/hongyeollee"/></a>
 
 ## BackEnd
