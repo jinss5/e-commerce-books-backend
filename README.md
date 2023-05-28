@@ -65,15 +65,17 @@ Implemented advanced filtering, ordering, and pagination capabilities using opti
 
 ### `Carts`
 - View Cart: Retrieve the shopping cart items for a specific user, providing an overview of the selected products.
-- Add to Cart: Combines both INSERT and UPDATE operations using UPSERT syntax, allowing for simultaneous insertion of new items and updating existing ones within a single query.
+- Add to Cart: Allow users to add products to their shopping cart, leveraging an INSERT operation to associate the selected product with the user in the cart table.
 - Update Quantity: Enabled real-time updating of item quantities within the shopping cart, ensuring immediate synchronization with the database through an efficient UPDATE operation.
-Remove from Cart: Implemented a single method to handle the removal of one or more products from the shopping cart, providing a convenient way for users to remove items with ease.
+- Remove from Cart: Implemented a single method to handle the removal of one or more products from the shopping cart, providing a convenient way for users to remove items with ease.
 
 ### `Order`
 - Implemented transactional mechanisms throughout the payment process to ensure the adherence to ACID (Atomicity, Consistency, Isolation, Durability) properties, thus ensuring the reliability and integrity of the system.
 
 ### `Mypage`
-
+- User Profile: Implemented a user profile page where users can view and update their personal information such as name, email, address, and phone number.
+- Order History: Provided a comprehensive order history feature that allows users to view their past orders, including details such as order date, status, and purchased items.
+- Wishlist: Implemented a wishlist functionality that enables users to save and manage their desired products for future reference or purchase.
 
 
 
